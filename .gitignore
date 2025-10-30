@@ -2,3 +2,5 @@
 venv
 period.ipynb
 quoteunquote.ipynb
+*.cpython-*
+__pycache__
