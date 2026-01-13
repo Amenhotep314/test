@@ -7,3 +7,5 @@ This is the place I put random mini-projects that haven't yet earned their own r
    - $\Psi_{3, 2, 2}(r, \theta, \phi) = r^2 e^{-r/3} \sin^2\theta e^{2i\phi}$
 
 <img width="1318" height="759" alt="Untitled" src="https://github.com/user-attachments/assets/a60cba59-62f2-41ad-8a54-49c6f0bd43ed" />
+
+ - [Dimensional Space](./units.ipynb): A visualization tool to view physical quantities as combinations of SI base units in a shared space.
