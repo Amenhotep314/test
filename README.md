@@ -15,3 +15,5 @@ This is the place I put random mini-projects that haven't yet earned their own r
  - [Book Publication](./books.ipynb): An analysis of the publication dates of all the books I've read in my lifetime.
 
 <img width="571" height="455" alt="7f2a8293-591c-487d-b8ca-0628f9b5ec74" src="https://github.com/user-attachments/assets/bf5446ee-fa60-4299-a082-8efae36013af" />
+
+ - [Brownie Simulator](./brownies.ipynb): A numerical heat equation solver that computes the approximate cook time for brownies based on the shape of the pan, as well as the internal temperature everywhere in the pan for all times.
